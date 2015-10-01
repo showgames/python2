@@ -282,13 +282,7 @@ class MoveChecker:
                                                  font = ('Helvetica', 20), fill = 'black', state = 'normal')
 
  
-        
-
-        
-            
-            
-        
-
+ 
     def draw_move(self):
         global globalpass
         global label_board
@@ -499,14 +493,6 @@ class AI:
             print(self.cell.humanTrun)
 
             
-                    
-            
-        
-        
-        
-
-
-
     
 #window setup
 canvas.pack()   
